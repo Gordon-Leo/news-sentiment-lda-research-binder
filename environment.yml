@@ -1,0 +1,12 @@
+dependencies:
+  - python=3
+  - pip:
+    - ipykernel
+    - scikit-learn
+    - jieba
+    - pyldavis
+    - pandas
+    - bosonnlp
+    - snownlp
+    - matplotlib
+    - seaborn
